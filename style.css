@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,7 +6,7 @@ body {
     box-sizing: border-box;
   }
   
-  /* Navigation Bar */
+  
   nav {
     background-color: #333;
     color: white;
@@ -44,7 +44,7 @@ body {
     text-decoration: underline;
   }
   
-  /* Hero Section */
+ 
   .hero {
     position: relative;
   }
@@ -72,7 +72,7 @@ body {
     font-size: 1.2rem;
   }
   
-  /* Products Section */
+  
   .products {
     padding: 20px;
   }
@@ -116,7 +116,7 @@ body {
     color: #555;
   }
   
-  /* Blog Section */
+  
   .blog {
     padding: 20px;
     background-color: #f9f9f9;
@@ -141,8 +141,7 @@ body {
     color: #666;
   }
   
-  /* Footer Contact Section */
-  .contact-section {
+ .contact-section {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
